@@ -1,0 +1,11 @@
+C:\Users\ZuluWarp13\source\repos\POS_Test\POS_Test\obj\Debug\netcoreapp2.2\POS_Test.csprojAssemblyReference.cache
+C:\Users\ZuluWarp13\source\repos\POS_Test\POS_Test\obj\Debug\netcoreapp2.2\POS_Test.csproj.CoreCompileInputs.cache
+C:\Users\ZuluWarp13\source\repos\POS_Test\POS_Test\obj\Debug\netcoreapp2.2\POS_Test.AssemblyInfoInputs.cache
+C:\Users\ZuluWarp13\source\repos\POS_Test\POS_Test\obj\Debug\netcoreapp2.2\POS_Test.AssemblyInfo.cs
+C:\Users\ZuluWarp13\source\repos\POS_Test\POS_Test\bin\Debug\netcoreapp2.2\POS_Test.deps.json
+C:\Users\ZuluWarp13\source\repos\POS_Test\POS_Test\bin\Debug\netcoreapp2.2\POS_Test.runtimeconfig.json
+C:\Users\ZuluWarp13\source\repos\POS_Test\POS_Test\bin\Debug\netcoreapp2.2\POS_Test.runtimeconfig.dev.json
+C:\Users\ZuluWarp13\source\repos\POS_Test\POS_Test\bin\Debug\netcoreapp2.2\POS_Test.dll
+C:\Users\ZuluWarp13\source\repos\POS_Test\POS_Test\bin\Debug\netcoreapp2.2\POS_Test.pdb
+C:\Users\ZuluWarp13\source\repos\POS_Test\POS_Test\obj\Debug\netcoreapp2.2\POS_Test.dll
+C:\Users\ZuluWarp13\source\repos\POS_Test\POS_Test\obj\Debug\netcoreapp2.2\POS_Test.pdb
